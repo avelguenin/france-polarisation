@@ -3,14 +3,14 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Avel GUÉNIN--CARLUT'
-SITENAME = 'France Polarisation'
-SITEURL = ''
-
+SITENAME = 'Polarisation & mondialisation en France'
+SITEURL = 'https://avelguenin.github.io/france-polarisation-code/'
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
-
 DEFAULT_LANG = 'FR'
+
+THEME = "/home/avel/pelican-themes/solar"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -21,13 +21,12 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
+         ('Mon site personnel', 'http://enkitex.wordpress.com/'),
+         ("Équipe Cliométrie et Complexité", "http://www.ixxi.fr/recherche/cliometrie-et-complexite"),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = ()
 
 DEFAULT_PAGINATION = False
 
