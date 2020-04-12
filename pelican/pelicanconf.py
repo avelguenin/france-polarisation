@@ -10,7 +10,7 @@ PATH = 'content'
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'FR'
 
-THEME = "/home/avel/pelican-themes/solar"
+THEME = "/home/avel/.pelican/pelican-themes/pelican-alchemy/alchemy"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -23,8 +23,7 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Mon site personnel', 'http://enkitex.wordpress.com/'),
          ("Équipe Cliométrie et Complexité", "http://www.ixxi.fr/recherche/cliometrie-et-complexite"),
-         ('You can modify those links in your config file', '#'),)
-
+         )
 # Social widget
 SOCIAL = ()
 
