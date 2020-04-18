@@ -1,0 +1,6 @@
+site_name: France Polarisation
+nav:
+  - Accueil : index.md
+  - Cartographie : carto.md
+  - Analyse causale : analyse.md
+  - À propos : about.md
