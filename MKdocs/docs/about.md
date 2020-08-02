@@ -1,4 +1,4 @@
 # Notre projet
 
 
-Le projet France Polarisation est un projet de l'équipe IXXI Cliométrie et Complexité, mené par Avel GUÉNIN--CARLUT sous la direction de Pablo JENSEN & Antonie PARENT.
+Le projet France Polarisation est un stage de m2 effectué par Avel GUÉNIN--CARLUT, dans le cadre  de l'équipe IXXI Cliométrie et Complexité & sous la direction de Pablo JENSEN, Cécile BASTIDON & Antonie PARENT.

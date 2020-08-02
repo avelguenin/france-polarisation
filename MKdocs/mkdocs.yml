@@ -1,6 +1,11 @@
 site_name: France Polarisation
+theme:
+  name: null
+  custom_dir: 'cinder'
 nav:
   - Accueil : index.md
-  - Cartographie : carto.md
+  - Méthodes : methodes.md
+  - Cartographie : cartographie.md
+  - Polarisation : polarisation.md
   - Analyse causale : analyse.md
   - À propos : about.md
