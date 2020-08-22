@@ -1,4 +1,4 @@
-# Globalisation & polarisation territoriale en France
+# Globalisation & polarisation des territoires français
 
 Ce site présente un travail de diagnostic, de cartographie, et d'analyse du développement de la *polarisation* géographique et économique de la société française depuis l'introduction de la *mondialisation*, comme réalité économique et comme idéologie politique, au cours des années 1980. Celui-ci s'ancre méthodologiquement dans les disciplines de la cliométrie (l'étude de dynamiques économique passées via l'analyse des données), de l'économie géographique (l'étude des mécanismes de l'organisation spatiale des activités économiques), et de la complexité (la modélisation des interactions entre éléments constituants d'un système et les méthodes computationnelles associées).
 

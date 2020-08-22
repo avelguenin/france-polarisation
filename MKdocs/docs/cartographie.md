@@ -1,4 +1,4 @@
-# Cartographie de la polarisation territoriale dans la France du XXIè
+# Cartographie de la polarisation des territoires français
 
 
 Nous avons décidé d'axer nos premiers efforts sur le diagnostic et la visualisation d'un effet de "polarisation" spatiale et sociale en France. Notre démarche vise à construire une représentation intuitive de l'organisation géographique de l'économie française, ainsi que des dynamiques de cette organisation. Le but est de pouvoir juger visuellement de la concentration de l'activité économique dans des territoires plus restreints (celui des métropoles), et d'une concentration des revenus aux mains d'une part plus réduite de la population.
@@ -49,6 +49,6 @@ On peut trouver [à cette adresse](cartes/ZE geography.html) une carte délimita
 
 ## Interprétation
 
-Nos cartes permettent de constater à l'oeil nu l'existence d'un effet de polarisation spatiale : ainsi, les zones les plus densément peuplées sont des zones où les salaires comme les inégalités sont les plus élevés. Cela implique l'existence d'une polarisation des revenus vers les zones les plus peuplées, et plus spécifiquement vers les populations les plus riches de ces zones. 
+Nos cartes permettent de constater à l'oeil nu l'existence d'un effet de polarisation spatiale : ainsi, les zones les plus densément peuplées sont des zones où les salaires comme les inégalités sont les plus élevés (sans que cette relation ne soit réciproque). Ce résultat implique l'existence d'une polarisation des revenus vers les zones les plus peuplées, et plus spécifiquement vers les populations les plus riches de ces zones.
 
 Cette caractérisation est toutefois à ce stade très superficielle, et surtout elle ne permet pas une étude dynamique de la polarisation géographique. Nous allons donc nous attacher à quantifier la polarisation géographique en France, afin d'ensuite pouvoir en étudier les déterminismes structurels.
