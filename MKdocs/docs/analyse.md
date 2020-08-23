@@ -8,7 +8,7 @@ où les termes de gauche (celles que notre modèle cherche à prédire) représe
 
 ![image alt text](graphics/reg-matrix-macro.png)
 
-Nous ne mesurons donc aucun effet solide de la pression financière internationale sur la polarisation des revenus, mais il semble apparaître que la polarisation de la productivité a un effet antagoniste sur celle des revenus. Ce résultat est, si on l'énonce ainsi, très étonnant : on penserait au contraire que la concentration de la producitvité dans certaines zones d'emplois faciliterait la concentration des revenus dans ces mêmes zones d'emploi.
+Nous ne mesurons donc aucun effet solide de la pression financière internationale sur la polarisation des revenus, mais il semble apparaître que la polarisation de la productivité a un effet antagoniste sur celle des revenus. Ce résultat est, si on l'énonce ainsi, très étonnant : on penserait au contraire que la concentration de la productivité dans certaines zones d'emplois faciliterait la concentration des revenus dans ces mêmes zones d'emploi.
 
 Cependant, nous n'avons trouvé aucune mesure directe de la productivité par zone d'emploi sur la période d'étude, et notre variable de "polarisation de la producitivité" est en fait calculée sur la base de la part de l'emploi tertiaire dans chaque zone d'emploi. Il est donc plus vraisemblable d'interpréter notre résultat en conjecturant que la transition de l'économie dans son ensemble vers le tertiaire ait sous-tendu une polarisation des emplois tertiaires les plus productifs dans les grands centres urbains, et que cette polarisation ait bien eu un effet à la hausse sur celle des revenus.
 

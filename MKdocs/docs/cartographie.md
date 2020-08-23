@@ -9,7 +9,7 @@ Ce jeu de variables nous permettra de caractériser la polarisation inter-ZE - v
 
 ## Cartes
 
-Nous avons décidé de représenter des versions statiques et dynamiques de chaque grandeur décrite ci-haut. Les grandeurs sont à chaque fois représentées dans l'espace logarithmique, afin de compenser le large niveau de variation. Une légère difficulté réside en le changement de la composition des ZE (passant de la convention 1990 à la 2010) ayant eu lieu entre 2008 et 2009. Cette dernière nous force à couper en deux nos représentations dynamiques.
+Nous avons décidé de construire des cartes statiques de chaque grandeur décrite ci-haut aux extrêmes de notre période d'étude (en 2001 et 2016), ainsi que des cartes dynamiques couvrant toute la période. Les grandeurs sont à chaque fois représentées dans l'espace logarithmique, afin de compenser le large niveau de variation. Le changement de la composition des ZE (passant de la convention 1990 à la 2010) ayant eu lieu entre 2008 et 2009, nous oblige à couper en deux nos représentations dynamiques qui couvrent donc respectivement les périodes 2001-08 et 2009-16.
 
 On peut trouver [à cette adresse](cartes/ZE geography.html) une carte délimitant les ZE1990 et les ZE2010, reconstruites selon les géographies communales et les compositions des ZE fournies par l'INSEE. L'augmentation de la surface des ZE durant cette période, traduisant l'extension de l'influence des pôles régionaux et constatée par l'INSEE dans son rapport, est ici visible à l'oeil nu.
 
@@ -51,4 +51,4 @@ On peut trouver [à cette adresse](cartes/ZE geography.html) une carte délimita
 
 Nos cartes permettent de constater à l'oeil nu l'existence d'un effet de polarisation spatiale : ainsi, les zones les plus densément peuplées sont des zones où les salaires comme les inégalités sont les plus élevés (sans que cette relation ne soit réciproque). Ce résultat implique l'existence d'une polarisation des revenus vers les zones les plus peuplées, et plus spécifiquement vers les populations les plus riches de ces zones.
 
-Cette caractérisation est toutefois à ce stade très superficielle, et surtout elle ne permet pas une étude dynamique de la polarisation géographique. Nous allons donc nous attacher à quantifier la polarisation géographique en France, afin d'ensuite pouvoir en étudier les déterminismes structurels.
+Notre caractérisation reste toutefois à ce stade très superficielle, et surtout elle ne permet pas une étude dynamique de la polarisation géographique. Nous allons donc nous attacher à quantifier la polarisation géographique en France, afin d'ensuite pouvoir en étudier les déterminismes structurels.
