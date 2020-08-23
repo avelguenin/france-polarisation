@@ -1,4 +1,4 @@
-site_name: France Polarisation
+site_name: France périphérique & systèmes complexes
 theme:
   name: null
   custom_dir: 'cinder'
@@ -9,4 +9,3 @@ nav:
   - Polarisation : polarisation.md
   - Analyse causale : analyse.md
   - Conclusion : conclusion.md
-  - À propos : about.md
