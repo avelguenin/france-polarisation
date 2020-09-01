@@ -9,3 +9,6 @@ Algan, Yann, Clément Malgouyres, and Claudia Senik. 2019. ‘Territoires, bien-
 
 ##### Échevin & Parent, 2002
 Échevin, Damien, and Antoine Parent. 2002. ‘Les indicateurs de polarisation et leur application à la France’. Economie prevision no 155(4): 13–30.
+
+##### Combes et al, 2011
+Combes, Pierre-Philippe, Miren Lafourcade, Jacques-François Thisse, and Jean-Claude Toutain. 2011. ‘The Rise and Fall of Spatial Inequalities in France: A Long-Run Perspective’. Explorations in Economic History 48(2): 243–71.
