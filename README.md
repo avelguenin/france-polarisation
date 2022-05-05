@@ -14,4 +14,4 @@ This notebook analyses the evolution of different measures of socio-economic pol
 ## Causal analysis
 This notebook regresses selected measures of polarisation on theoretically relevant data so as to characterise dynamically polarisation in France, based on the statsmodels library (see https://www.statsmodels.org/stable/index.html)
 
-A fuller explanation of the underlying research can be found in the MKDocs website for this project : https://avelguenin.github.io/france-polarisation-code/
+A fuller explanation of the underlying research can be found in the MKDocs website for this project : https://avelguenin.github.io/france-polarisation/
